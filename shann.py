@@ -1,0 +1,3 @@
+# shan.py
+TOKEN = "7702571525:AAEkRV-Ie-QlU2HlVmsOrx0GIBqwkIRdLEM"
+ADMIN_id = "6073688352"
