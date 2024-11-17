@@ -6,7 +6,7 @@ import json
 from datetime import datetime, timedelta
 from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import Application, CommandHandler, MessageHandler, CallbackQueryHandler, ContextTypes, filters
-from shann import TOKEN, ADMIN_ID  # Import the TOKEN and ADMIN_ID variables
+from shann import 7702571525:AAEkRV-Ie-QlU2HlVmsOrx0GIBqwkIRdLEM, 6073688352  # Import the TOKEN and ADMIN_ID variables
 
 # Set up logging
 logging.basicConfig(format='%(asctime)s - %(name)s - %(levelname)s - %(message)s', level=logging.INFO)
